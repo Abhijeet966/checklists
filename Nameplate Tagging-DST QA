@@ -1,0 +1,47 @@
+[
+{
+  "Questions": "Did you check the Nameplate Key/Catalogue ID?",
+  "Response": "Yes",
+  "Answers": "nameplate key is correct"
+},
+{
+  "Questions": "Did you check the Gallery Images?",
+  "Response": "No",
+  "Answers": "Not req"
+},
+{
+  "Questions": "Did you check the Brochure?",
+  "Response": "Yes",
+  "Answers": "Has been updated"
+},
+{
+  "Questions": "Did you check the Features Title, Description, and Disclaimer?",
+  "Response": "Yes",
+  "Answers": "As per live"
+},
+{
+  "Questions": "Did you check the QGSSP?",
+  "Response": "Yes",
+  "Answers": "As per its Title or categories"
+},
+{
+  "Questions": "Did you check the Model Key?",
+  "Response": "Yes",
+  "Answers": "As per build and price"
+},
+{
+  "Questions": "Did you check the Feature Packages?",
+  "Response": "Yes",
+  "Answers": "Yes"
+},
+{
+  "Questions": "Did you check the Feature Location?",
+  "Response": "Yes",
+  "Answers": "Yes"
+},
+{
+  "Questions": "Did you check the Feature Images?",
+  "Response": "Yes",
+  "Answers": "As per live page"
+}
+]
