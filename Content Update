@@ -1,0 +1,27 @@
+[
+{
+"Questions": "Does the text alignment, style, size, and color match the approved layout?",
+"Response": "Yes",
+"Answers": "Matches the live page."
+},
+{
+"Questions": "Has the copy been reviewed and checked for accuracy?",
+"Response": "Yes",
+"Answers": "Reviewed against the live page."
+},
+{
+"Questions": "Is the correct localized text added on the page?",
+"Response": "Yes",
+"Answers": "Matches the live page."
+},
+{
+"Questions": "Is any text overlapping when viewed on mobile?",
+"Response": "No",
+"Answers": "Not applicable for DST."
+},
+{
+"Questions": "Are there any double spaces, subscript, superscript, typos, or capitalization issues in the text?",
+"Response": "No",
+"Answers": "None found."
+}
+]
