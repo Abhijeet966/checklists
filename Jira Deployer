@@ -1,0 +1,47 @@
+[
+{
+  "Questions": "Is there any Next Steps to be noted? If Yes, is it mentioned in the JIRA?",
+  "Response": "No",
+  "Answers": "not applicable"
+},
+{
+  "Questions": "In case of request going on Hold / Clarification, is the comment visible to all user?",
+  "Response": "No",
+  "Answers": "not applicable"
+},
+{
+  "Questions": "In case we have worked on VDM, have we completed VDM workflow?",
+  "Response": "Yes",
+  "Answers": "completion is done at time of build"
+},
+{
+  "Questions": "Is separate workflow's created for Brandsite and Ecomm?",
+  "Response": "Yes",
+  "Answers": "brandsite"
+},
+{
+  "Questions": "Note to Client passed if required",
+  "Response": "Yes",
+  "Answers": "Client note shared when required."
+},
+{
+  "Questions": "Is there any dependency highlighted in the request for any page?",
+  "Response": "No",
+  "Answers": "No dependencies highlighted."
+},
+{
+  "Questions": "Is the workflow URL mentioned in the URL section?",
+  "Response": "Yes",
+  "Answers": "Workflow URL added in the URL section."
+},
+{
+  "Questions": "Is the brief checked thoroughly for all the action items?",
+  "Response": "Yes",
+  "Answers": "checked"
+},
+{
+  "Questions": "Is the \"assignee\" appropriate after movement of the request to next stage?",
+  "Response": "Yes",
+  "Answers": "proper movement"
+}
+]
