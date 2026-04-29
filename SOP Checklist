@@ -1,0 +1,32 @@
+[
+{
+"Questions": "Embargo workflow created and requester added in viewer list?",
+"Response": "No",
+"Answers": "Not applicable."
+},
+{
+"Questions": "Is the correct complexity assigned based on the nature of the task?",
+"Response": "Yes",
+"Answers": "Properly aligned."
+},
+{
+"Questions": "Is the correct label used?",
+"Response": "Yes",
+"Answers": "Proper label."
+},
+{
+"Questions": "Are all required assets shared?",
+"Response": "Yes",
+"Answers": "Shared."
+},
+{
+"Questions": "Is the dependency checked?",
+"Response": "Yes",
+"Answers": "No dependency."
+},
+{
+"Questions": "Are the correct URLs shared?",
+"Response": "Yes",
+"Answers": "Shared."
+}
+]
