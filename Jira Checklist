@@ -1,0 +1,52 @@
+[
+{
+"Questions": "In case we have worked on VDM, have we added a note for VDM workflow completion?",
+"Response": "Yes",
+"Answers": "Added a VDM workflow completion note."
+},
+{
+"Questions": "Is a separate workflow created for Brandsite and Ecomm?",
+"Response": "Yes",
+"Answers": "Brandsite and Ecomm workflows are created separately."
+},
+{
+"Questions": "Is the brief checked thoroughly for all action items?",
+"Response": "Yes",
+"Answers": "Brief checked for all action items."
+},
+{
+"Questions": "In case of request going on hold/clarification, is the comment visible to all users?",
+"Response": "Yes",
+"Answers": "An open comment is visible to all users."
+},
+{
+"Questions": "Is the note to client passed if required?",
+"Response": "Yes",
+"Answers": "Client note shared when required."
+},
+{
+"Questions": "Are there any next steps to be noted? If yes, are they mentioned in JIRA?",
+"Response": "No",
+"Answers": "No next steps noted yet."
+},
+{
+"Questions": "Is there any dependency highlighted in the request for any page?",
+"Response": "No",
+"Answers": "No dependencies highlighted."
+},
+{
+"Questions": "Is the workflow URL mentioned in the URL section?",
+"Response": "Yes",
+"Answers": "Workflow URL added in the URL section."
+},
+{
+"Questions": "Has the SOP used the appropriate labels?",
+"Response": "Yes",
+"Answers": "Appropriate labels used."
+},
+{
+"Questions": "Is the assignee appropriate after moving the request to the next stage?",
+"Response": "Yes",
+"Answers": "Assigned to Ravi."
+}
+]
