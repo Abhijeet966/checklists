@@ -1,0 +1,67 @@
+[
+{
+"Questions": "Was a defaultLocaleDescription provided?",
+"Response": "Yes",
+"Answers": "The default locale description has been updated as per the live page."
+},
+{
+"Questions": "Was the uniqueNameplateKey provided?",
+"Response": "Yes",
+"Answers": "The unique nameplate key has been updated as per the build and price."
+},
+{
+"Questions": "Was the \"isKeyFeature\" value set?",
+"Response": "Yes",
+"Answers": "The key feature has been set to TRUE for the first feature, and the rest are false."
+},
+{
+"Questions": "Were image URLs (images.imgUrl) provided?",
+"Response": "Yes",
+"Answers": "Image URLs have been added as per the live features."
+},
+{
+"Questions": "Was a Title included?",
+"Response": "Yes",
+"Answers": "The title has been included."
+},
+{
+"Questions": "Was the feature-id specified?",
+"Response": "Yes",
+"Answers": "The feature ID has been specified."
+},
+{
+"Questions": "Was the categories-id specified?",
+"Response": "Yes",
+"Answers": "The categories ID has been specified."
+},
+{
+"Questions": "Were image screenshots included?",
+"Response": "Yes",
+"Answers": "The feature image screenshot has been added."
+},
+{
+"Questions": "Were QGSSP values added?",
+"Response": "Yes",
+"Answers": "The QGSSP value has been updated as per the feature description."
+},
+{
+"Questions": "Were Interior/Exterior designations specified?",
+"Response": "Yes",
+"Answers": "Interior and exterior designations were specified."
+},
+{
+"Questions": "Was the featureLocation defined?",
+"Response": "Yes",
+"Answers": "The feature location has been defined as per the feature description."
+},
+{
+"Questions": "Were package details included?",
+"Response": "Yes",
+"Answers": "They have been added as per the build and price."
+},
+{
+"Questions": "Was a Disclaimer added?",
+"Response": "Yes",
+"Answers": "A disclaimer has been added for the feature; the disclaimer is available."
+}
+]
