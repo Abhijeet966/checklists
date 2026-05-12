@@ -1,32 +1,37 @@
 [
-  {
-    "Questions": "Has the workflow URL been added to the URL section?",
-    "Response": "Yes",
-    "Answers": "The workflow URL has been added to the URL section."
-  },
-  {
-    "Questions": "Have all the URLs been included in the workflow?",
-    "Response": "Yes",
-    "Answers": "All the URLs have been included in the workflow."
-  },
-  {
-    "Questions": "Have all the feature categories been added under their respective categories?",
-    "Response": "Yes",
-    "Answers": "All the feature categories have been added as per the live compare page."
-  },
-  {
-    "Questions": "Have all the model images been updated as per NGC guidelines?",
-    "Response": "Yes",
-    "Answers": "All the model images have been updated as per Build & Price."
-  },
-  {
-    "Questions": "Has each category feature been correctly mapped to its respective model?",
-    "Response": "Yes",
-    "Answers": "Each category feature has been mapped correctly to its respective model."
-  },
-  {
-    "Questions": "Has the correct template been selected for page creation?",
-    "Response": "Yes",
-    "Answers": "The correct template has been used for page creation."
-  }
+{
+"Questions": "Was the Section updated?",
+"Response": "Yes",
+"Answers": "updated as per live"
+},
+{
+"Questions": "Was the Model Name, based on the NGC journey, included?",
+"Response": "Yes",
+"Answers": "as per NGC"
+},
+{
+"Questions": "Was the Feature-ID included?",
+"Response": "Yes",
+"Answers": "included"
+},
+{
+"Questions": "Was the Feature Description included?",
+"Response": "Yes",
+"Answers": "included"
+},
+{
+"Questions": "Was the Feature Title included?",
+"Response": "Yes",
+"Answers": "has been added"
+},
+{
+"Questions": "Was the Sub-Section updated?",
+"Response": "Yes",
+"Answers": "updated"
+},
+{
+"Questions": "Was the Feature Disclaimer included?",
+"Response": "Yes",
+"Answers": "for features available"
+}
 ]
