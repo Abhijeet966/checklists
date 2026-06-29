@@ -1,0 +1,27 @@
+[
+  {
+    "Questions": "Were the Default Models Mapped checked?",
+    "Response": "Yes",
+    "Answers": "The default model is mapped as per the live site."
+  },
+  {
+    "Questions": "Were the Prices on the JSON verified against the live site?",
+    "Response": "Yes",
+    "Answers": "The prices have been verified and are aligning with the live site."
+  },
+  {
+    "Questions": "Was it confirmed that the correct Nameplate/Models were Mapped?",
+    "Response": "Yes",
+    "Answers": "All nameplates and models are mapped correctly as per the live site."
+  },
+  {
+    "Questions": "Were the Models updated according to the NGC journey for each respective nameplate?",
+    "Response": "Yes",
+    "Answers": "The models have been updated according to the NGC journey for each respective nameplate."
+  },
+  {
+    "Questions": "Was the Number of Offers on the JSON checked?",
+    "Response": "Yes",
+    "Answers": "The number of offers has been checked and is aligning with the live site."
+  }
+]
