@@ -1,0 +1,17 @@
+[
+  {
+    "Questions": "Have you reviewed all the necessary pages are under the \"Next Gen Vehicle\" node, following the approved structure?",
+    "Response": "Yes",
+    "Answers": "All required pages are under the Next Gen Vehicle (NGC) node as per the approved structure."
+  },
+  {
+    "Questions": "Have you ensured that all models are updated according to the NGC journey for their respective nameplates?",
+    "Response": "Yes",
+    "Answers": "All models are updated under their respective nameplates according to the NGC journey."
+  },
+  {
+    "Questions": "Have you reviewed all model images and resized any that don't meet the required dimensions?",
+    "Response": "No",
+    "Answers": "Not applicable in DST."
+  }
+]
