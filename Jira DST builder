@@ -1,0 +1,49 @@
+```json
+[
+  {
+    "Questions": "In case of request going on Hold / Clarification, is the comment visible to all users?",
+    "Response": "No",
+    "Answers": "Not required."
+  },
+  {
+    "Questions": "Is there any dependency highlighted in the request for any page?",
+    "Response": "No",
+    "Answers": "No dependency."
+  },
+  {
+    "Questions": "Is there any Next Steps to be noted? If Yes, is it mentioned in the JIRA?",
+    "Response": "No",
+    "Answers": "Not required."
+  },
+  {
+    "Questions": "In case we have worked on VDM, have we added note for VDM workflow completion too?",
+    "Response": "No",
+    "Answers": "VDM completion done at the time of build."
+  },
+  {
+    "Questions": "Has the SOP used the appropriate labels?",
+    "Response": "Yes",
+    "Answers": "PDWM-2.0-Model."
+  },
+  {
+    "Questions": "Is the brief checked thoroughly for all the action items?",
+    "Response": "Yes",
+    "Answers": "Brief checked thoroughly for all action items."
+  },
+  {
+    "Questions": "Note to Client/QA passed separately",
+    "Response": "No",
+    "Answers": "Not required."
+  },
+  {
+    "Questions": "Is the assignee appropriate after movement of the request to next stage?",
+    "Response": "Yes",
+    "Answers": "Proper assignee movement completed."
+  },
+  {
+    "Questions": "Is the workflow URL mentioned in the URL section?",
+    "Response": "Yes",
+    "Answers": "Workflow URL mentioned in the URL section."
+  }
+]
+```
