@@ -1,4 +1,3 @@
-```json
 [
   {
     "Questions": "In case of request going on Hold / Clarification, is the comment visible to all users?",
@@ -46,4 +45,4 @@
     "Answers": "Workflow URL mentioned in the URL section."
   }
 ]
-```
+
