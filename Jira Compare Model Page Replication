@@ -1,0 +1,90 @@
+{
+  "issueType": {
+    "type": "select",
+    "value": "Sub-task"
+  },
+  "summary": {
+    "type": "text",
+    "value": "FGE/DST - TH | Everest Compare Model Page Replication"
+  },
+  "assignee": {
+    "type": "user",
+    "value": "Abhijeet Kumar"
+  },
+  "client": {
+    "type": "select",
+    "value": "Ford"
+  },
+  "location": {
+    "type": "select",
+    "value": "AP - Thailand"
+  },
+  "languages": {
+    "type": "checkbox-group",
+    "value": [
+      "Thai"
+    ]
+  },
+  "dstImpacted": {
+    "type": "checkbox",
+    "value": true
+  },
+  "description": {
+    "type": "textarea",
+    "value": "Hi Team,\n\nPlease verify the Model Compare pages on the live site against those available under the DST node, and make updates wherever required. If the Model Compare data is not available, we can refer to and extract the required information from the Feature pages and Model Feature pages.\n\nfor blank feature value mark S\n\nCatalog ID Update\n\nWSPAY-TEK-2026-EverestTHA202650\n\nFor reference, please check the JSON below\n\nhttps://www.ford.co.th/content/ford/th/th_th/.imagination.WSPAY-TEK-2026-EverestTHA202650.data\n\nModel Key Logic\n\nModel key should be created using -\ncatalog ID, series, powertrain, bodystyle\n\nIn cases where the catalog ID, series, powertrain, and bodystyle is the same and further differentiation is required, the model key should include -\ncatalog ID, series, powertrain, bodystyle, height, length\n\nNote - Please make the features consistent as per the attached comparison sheet available in the Jira ticket. Download the sheet and start working accordingly.\n\nhttps://jira.uhub.biz/browse/GTBAPWEBM-52908\n\nKey Change in Mapping Logic: Earlier, we used to map features only for the specific model where the feature was available. However, with the new process, we will map all features across both/all models, regardless of whether the feature is available for that model or not. If a feature is not available in a particular model, its value will be left blank, which will automatically display as an \"X\" symbol on the app.\n\nSimple Example\n\nModel A → 10 features\nModel B → 5 completely different features\nNow we will add and map all 15 features for both models.\nWhere a feature doesn’t exist in a model → just leave it blank → it becomes \"X\" on the app.\n\nBest regards,\nAbhijeet Kumar"
+  },
+  "urls": {
+    "type": "textarea",
+    "value": "https://www.ford.co.th/showroom/ppvs/ford-everest/model-compare/\nhttps://www.ford.co.th/content/ford/th/th_th/.imagination.WSPAY-TEK-2026-EverestTHA202650.data\nWF: https://www.brandauthoraplb.ford.com/cf#/etc/workflow/packages/TH/53617-brandsite.html"
+  },
+  "priority": {
+    "type": "select",
+    "value": "Medium"
+  },
+  "complexity": {
+    "type": "select",
+    "value": "Medium"
+  },
+  "labels": {
+    "type": "labels",
+    "value": [
+      "DST-M-Content-Update"
+    ]
+  },
+  "securityLevel": {
+    "type": "select",
+    "value": "Market Request"
+  },
+  "projectManager": {
+    "type": "user",
+    "value": "Ravi Kumar"
+  },
+  "responsible": {
+    "type": "user",
+    "value": ""
+  },
+  "qa": {
+    "type": "user",
+    "value": ""
+  },
+  "proposedClientReviewDate": {
+    "type": "date",
+    "value": "12/Aug/26"
+  },
+  "dispatchDateTime": {
+    "type": "datetime",
+    "value": "12/Aug/26 3:50 PM"
+  },
+  "dueDateTime": {
+    "type": "datetime",
+    "value": "12/Aug/26 3:50 PM"
+  },
+  "dueDate": {
+    "type": "date",
+    "value": "12/Aug/26"
+  },
+  "plannedStartDateTime": {
+    "type": "datetime",
+    "value": "13/Jul/26 3:50 PM"
+  }
+}
